@@ -1,5 +1,5 @@
 #!/bin/bash
-cd
+cd ~
 sudo apt install git
 sudo apt install gcc
 sudo apt install g++
