@@ -1,4 +1,5 @@
 #!/bin/bash
+#!chmod -775 script.sh
 cd ~
 sudo apt install git
 sudo apt install gcc
