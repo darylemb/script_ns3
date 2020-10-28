@@ -9,8 +9,6 @@ chmod 777 script.sh\
 ./script.sh
 
 **Instrucciones visuales**\
-\
-\
 Descargar el proyecto completo:\
 <img width="750" src="tutorial/1.png">
  \
