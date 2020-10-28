@@ -35,5 +35,9 @@ chmod 777 script.sh\
 <img width="750" src="tutorial/5.png">
 \
 Escribir S si llega a solcitar permisos de instalación (como en la imagen superior).\
+\
+\
 Al finalizar el script se visualiza lo siguiente:\
 <img width="750" src="tutorial/6.png">
+\
+Si has llegado hasta aquí, se ha compilado correctamente el programa.
