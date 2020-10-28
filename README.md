@@ -4,3 +4,5 @@
 sudo su\
 chmod 777 script.sh\
 ./script.sh
+
+**Instrucciones visuales**
