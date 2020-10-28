@@ -1,5 +1,8 @@
 # INSTRUCCIONES
-
+El presente script fue probado en Ubuntu 20.04 y Debian 10 Buster. Útil para cualquier versión posterior de estas distribuciones y sus derivadas (Linux Mint, PoOS, ZorinOS, LinuxMX).\
+\
+Si empleas una distribución basada en Arch o Fedora, deberá ser modificado para funcionar con tu gestor de paquetes.\
+\
 **DESCARGAR EL ARCHIVO, DESCOMPRIMIRLO Y EN UNA TERMINAL ABIERTA EN LA CARPETA DONDE SE ENCUENTRA EL ARCHIVO script.sh ESCRIBIR LO SIGUIENTE:**\
 sudo su\
 chmod 777 script.sh\
@@ -27,8 +30,7 @@ Abrir terminal dentro de la carpeta:\
 Escribir las instrucciones siguientes en la terminal:\
 sudo su\
 chmod 777 script.sh\
-./script.sh\
-\
+./script.sh
 \
 <img width="750" src="tutorial/5.png">
 \
