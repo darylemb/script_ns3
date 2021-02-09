@@ -1,10 +1,7 @@
 #!/bin/bash
 #!chmod -775 script.sh
 cd ~
-sudo apt install git
-sudo apt install gcc
-sudo apt install g++
-sudo apt update
+sudo apt install git gcc g++ -y && sudo apt update
 if [ -d ns-3-allinone ]
 then 
 	echo "Borrando carpeta preexistente"
