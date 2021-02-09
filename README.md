@@ -1,5 +1,5 @@
 # INSTRUCCIONES
-El presente script fue probado en Ubuntu 20.04 y Debian 10 Buster. Útil para cualquier versión posterior de estas distribuciones y sus derivadas (Linux Mint, PoOS, ZorinOS, LinuxMX).\
+El presente script fue probado en Ubuntu 20.04 y Debian 10 Buster. Útil para cualquier versión posterior de estas distribuciones y sus derivadas (Linux Mint entre otros).\
 \
 Si empleas una distribución basada en Arch o Fedora, deberá ser modificado para funcionar con tu gestor de paquetes.\
 \
