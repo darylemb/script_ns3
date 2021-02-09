@@ -34,6 +34,6 @@ chmod 777 script.sh\
 \
 \
 Al finalizar el script se visualiza lo siguiente:\
-<img width="750" src="tutorial/6.png">
+<img width="750" src="tutorial/s6.png">
 \
 Si has llegado hasta aquí, se ha compilado correctamente el programa.
