@@ -10,19 +10,19 @@ chmod 777 script.sh\
 
 **Instrucciones visuales**\
 Descargar el proyecto completo:\
-<img width="750" src="tutorial/1.png">
+<img width="750" src="tutorial/s1.png">
  \
  \
 Descomprimir el proyecto:\
-<img width="750" src="tutorial/2.png">
+<img width="750" src="tutorial/s2.png">
 \
 \
 Abrir la carpeta descomprimida:\
-<img width="750" src="tutorial/3.png">
+<img width="750" src="tutorial/s3.png">
 \
 \
 Abrir terminal dentro de la carpeta:\
-<img width="750" src="tutorial/4.png">
+<img width="750" src="tutorial/s4.png">
 \
 \
 Escribir las instrucciones siguientes en la terminal:\
@@ -30,9 +30,7 @@ sudo su\
 chmod 777 script.sh\
 ./script.sh
 \
-<img width="750" src="tutorial/5.png">
-\
-Escribir S si llega a solcitar permisos de instalación (como en la imagen superior).\
+<img width="750" src="tutorial/s5.png">
 \
 \
 Al finalizar el script se visualiza lo siguiente:\
